@@ -12,5 +12,6 @@
 <br>
 默认密码：root
 
-![output_Snipaste_2024-02-16_13-57-46](https://github.com/lemon-o/OpenWrt_x86/assets/69100023/ee793f55-fff5-40d2-9617-91063c96c8b9)
-![output_Snipaste_2024-02-16_13-57-30](https://github.com/lemon-o/OpenWrt_x86/assets/69100023/ec15e974-5afa-4f8c-8162-5c02841cc889)
+
+![output_Snipaste_2024-02-16_13-57-46](https://github.com/lemon-o/OpenWrt_x86/assets/69100023/766cd045-102c-4b09-b6c4-291181e096fe)
+![output_Snipaste_2024-02-16_13-57-30](https://github.com/lemon-o/OpenWrt_x86/assets/69100023/7c10f53f-6f4d-4c80-b422-2c01dfe49c7f)
